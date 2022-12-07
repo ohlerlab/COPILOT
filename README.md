@@ -108,7 +108,7 @@ For users that have scRNA-seq data of _Arabidopsis thaliana_ root, and wish to p
 
 ## Application 
 
-One can find here codes demonstrating how some typical downstream analysis of scRNA-seq were performed on COPILOT-preprocessed data. The codes also demonstrate how analysis in [Shahan & Hsu et al. 2020](https://doi.org/10.1101/2020.06.29.178863) were done.
+One can find here codes demonstrating how some typical downstream analysis of scRNA-seq were performed on COPILOT-preprocessed data. The codes also demonstrate how analysis in [Shahan & Hsu et al. 2022](https://doi.org/10.1016/j.devcel.2022.01.008) were done.
 
 [1-Basic_Seurat_Analysis_&_Correlation_Based_Annotation](https://github.com/Hsu-Che-Wei/COPILOT/tree/master/jupyter_notebook/1-Correlation_Based_Annotation.ipynb)
 
